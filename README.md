@@ -1,7 +1,7 @@
 # Olá, eu sou [Seu Nome]! 👋
 
 <p align="center">
-  <img src="https://www.canva.com/design/DAG4Wrv_vOM/Ut812krxQDeLKFZMbfSMYA/view?utm_content=DAG4Wrv_vOM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h113a72014d" alt="Banner de Boas-Vindas" width="800"/>
+  <img src="[https://www.canva.com/design/DAG4Wrv_vOM/Ut812krxQDeLKFZMbfSMYA/view?utm_content=DAG4Wrv_vOM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h113a72014d](https://www.canva.com/design/DAG4Wrv_vOM/Ut812krxQDeLKFZMbfSMYA/view?utm_content=DAG4Wrv_vOM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h113a72014d)" alt="Banner de Boas-Vindas" width="800"/>
 </p>
 
 ## 🚀 Sobre Mim
