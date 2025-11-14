@@ -44,11 +44,6 @@ Desenvolvedora full Stack junior
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaVitoriaLopes&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
-<p align="center">
-  <a href="https://wakatime.com/@{MariaVitoriaLopes}">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MariaVitoriaLopes&layout=compact" />
-  </a>
-</p>
 
 ---
 
@@ -67,6 +62,7 @@ Desenvolvedora full Stack junior
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Rust" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
+  <img align="center" alt="Rust" height="40" width="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg](https://education.oracle.com/file/general/p-80-java.png)">
   <br><br>
   <strong>DevOps & Ferramentas:</strong><br>
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
