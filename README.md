@@ -3,7 +3,7 @@
 
   
 <p align="center">
-  <img src="" alt="Banner de Boas-Vindas" width="800"/>
+  <img src="foto/banner.png" alt="Banner de Boas-Vindas" width="800"/>
 </p>
 
 ## 🚀 Sobre Mim
