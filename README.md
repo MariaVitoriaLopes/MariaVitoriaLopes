@@ -72,4 +72,5 @@ Desenvolvedora full Stack junior
 
 ## 📰 Minhas Últimas Atividades
 
-*Nenhuma atividade recente no blog. (Esta linha será substituída automaticamente)*
+💡 Da uma olha nos meus repositórios e escolha um para conhecer 
+
