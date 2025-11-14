@@ -1,6 +1,6 @@
 # Olá, sou a Maria! 👋
 
-Desenvolvedora full Stack junior
+<p> Desenvolvedora full Stack junior </p>
 
 
 
@@ -24,15 +24,13 @@ Desenvolvedora full Stack junior
 ## 🔗 Onde me Encontrar
 
 <p align="center">
-  <a href="https://linkedin.com/in/[seu-user]" target="_blank">
+  <a href="https://linkedin.com/in/MariaVitoriaLopes" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://[seu-portfolio].com" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-WebApp-blue?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-  <a href="https://twitter.com/[seu-user]" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
+  
 </p>
 
 ---
