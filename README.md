@@ -61,9 +61,8 @@ Desenvolvedora full Stack junior
   <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Rust" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
-  <img align="center" alt="Rust" height="40" width="50" src="https://wiki.thema.inf.br/wiki/upload/2014/7/java1-15165951.png">
-  <br><br>
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://wiki.thema.inf.br/wiki/upload/2014/7/java1-15165951.png">
+
   <strong>DevOps & Ferramentas:</strong><br>
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
