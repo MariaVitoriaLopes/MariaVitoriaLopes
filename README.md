@@ -35,7 +35,7 @@
 
 ---
 
-## 📊 Minhas Estatísticas (Conteúdo Dinâmico)
+## 📊 Minhas Estatísticas 
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaVitoriaLopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -50,7 +50,8 @@
 <p align="center">
   <strong>Front-End:</strong><br>
   <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="TypeScript" 
+    height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Svelte" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">
   <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
