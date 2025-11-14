@@ -1,5 +1,8 @@
 # Olá, sou a Maria! 👋
 
+Desenvolvedora full Stack junior
+
+
 
   
 <p align="center">
