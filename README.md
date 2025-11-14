@@ -8,14 +8,13 @@
 
 ## 🚀 Sobre Mim
 
-> [Sua bio curta e "slogan". Ex: "Desenvolvedor Full-Stack apaixonado por criar experiências de usuário fluidas e resolver problemas complexos." ou "Entusiasta de dados transformando cafeína em visualizações interativas."]
 
 <br>
 
-* 🧠 Atualmente focado em: **[Tecnologia/Conceito que você está estudando]**
-* 💡 Buscando colaborar em: **[Tipo de projeto que você procura]**
-* 💬 Fale comigo sobre: **[Seus tópicos favoritos: ex: Rust, Design Systems, IA Generativa]**
-* 📫 Como me encontrar: **[seu.email@exemplo.com]** (ou veja os links abaixo)
+* 🧠 Atualmente focado em: Desenvolver
+* 💡 Buscando colaborar em: Projetos que possua uma solução voltado a realidade
+* 💬 Fale comigo sobre: TECNOLOGIA
+* 📫 Como me encontrar: lopesvitoriamv@gmail.com (ou veja os links abaixo)
 
 ---
 
@@ -38,8 +37,8 @@
 ## 📊 Minhas Estatísticas (Conteúdo Dinâmico)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME]&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[MariaVitoriaLopes]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[MariaVitoriaLopes]&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
 <p align="center">
